@@ -1,7 +1,11 @@
 aid: macys
-url: https://raw.githubusercontent.com/api-evangelist/macys/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/macys/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.macys.com
+description: >-
+  Macy's is one of the nation's premier retailers, operating department stores, websites,
+  and apps under the Macy's, Bloomingdale's, and Bluemercury brands.
