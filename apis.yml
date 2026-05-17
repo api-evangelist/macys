@@ -5,7 +5,7 @@ description: >-
   department stores, websites, and apps under the Macy's, Bloomingdale's, and
   Bluemercury brands. This repository tracks any APIs, developer tools, and
   machine-readable artifacts that are made publicly available by Macy's.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
