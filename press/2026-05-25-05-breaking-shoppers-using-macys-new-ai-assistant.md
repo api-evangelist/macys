@@ -1,7 +1,9 @@
 ---
 title: '🚨 BREAKING🚨: Shoppers using Macy''s new AI Assistant " ...'
 url: https://www.linkedin.com/posts/max-sinclair-ai_breaking-shoppers-using-macys-new-activity-7449790497566416897-jEJr
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Macy''s" press release artificial intelligence'
 position: 5
 source: serpapi-google

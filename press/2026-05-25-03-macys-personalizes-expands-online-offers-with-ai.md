@@ -1,7 +1,9 @@
 ---
 title: Macy's personalizes, expands online offers with AI
 url: https://chainstoreage.com/macys-personalizes-expands-online-offers-ai
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Macy''s" press release artificial intelligence'
 position: 3
 source: serpapi-google

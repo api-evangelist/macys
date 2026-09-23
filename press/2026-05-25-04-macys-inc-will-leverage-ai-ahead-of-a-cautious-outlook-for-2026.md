@@ -1,7 +1,9 @@
 ---
 title: Macy's, Inc. will leverage AI ahead of a cautious outlook for 2026
 url: https://www.glossy.co/beauty/macys-inc-is-looking-to-leverage-ai-ahead-of-a-cautious-outlook-for-2026/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Macy''s" press release artificial intelligence'
 position: 4
 source: serpapi-google
